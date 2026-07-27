@@ -44,5 +44,8 @@ Thumbs.db
 *.dmg
 *.pkg
 
+flair7_docs/*
+!flair7_docs/README.md
+
 # Optional: ignore large PDFs if you do not want manuals in GitHub
 # *.pdf
