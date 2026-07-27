@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Conda
+.conda/
+conda-meta/
+
+# Environment variables
+.env
+.env.*
+
+# Local vector database
+chroma_db/
+*.sqlite
+*.sqlite3
+
+# Hugging Face / model caches
+.cache/
+models/
+huggingface/
+hf_cache/
+
+# Logs
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archives and installers
+*.zip
+*.exe
+*.msi
+*.dmg
+*.pkg
+
+# Optional: ignore large PDFs if you do not want manuals in GitHub
+# *.pdf
