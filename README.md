@@ -1,5 +1,6 @@
 # Flair 7 Tech Support Bot
 
+! YOU WILL NEED YOUR OWN DOCUMENTS TO UPLOAD
 A local retrieval-augmented generation (RAG) chatbot for answering technical-support questions about Flair 7 robotic camera arms. It searches documents stored locally, then uses a local Hugging Face language model to draft an answer from the relevant material.
 
 ## Current stack
